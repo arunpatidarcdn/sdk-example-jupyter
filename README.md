@@ -34,6 +34,8 @@ export RefineryCalc_Api_Key=<YOUR API KEY HERE>
 
 ### Run Sample Code
 #### Add a Jupyter Notebook file
+Note: file should be added in the examples directory.
+
 Select the required kernel (.venv) on the right top corner of the notebook file.
 
 In the first cell execute the command to install the Refinery Calc SDK and restart the kernel.
